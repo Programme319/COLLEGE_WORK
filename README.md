@@ -2,4 +2,4 @@
 
 <img width="1062" height="946" alt="code" src="https://github.com/user-attachments/assets/5b9ac5b0-42ac-41d0-a417-3f96d91c4923" />
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.25%; padding-top: 120px;"><a href="https://www.youtube.com/watch?v=QTLq1jM0Ac4" data-iframely-url="https://iframely.net/8nAYh2If?theme=dark"></a></div></div><script async src="https://iframely.net/embed.js"></script>
+<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/N7qWNQxFq90?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin"></iframe></div>
