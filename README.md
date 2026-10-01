@@ -12,3 +12,7 @@ https://youtu.be/t3sqg6JYTBw
 <br><br>
 
 [Noor-Book.com  نقد العقل المحض.pdf](https://github.com/user-attachments/files/32708546/Noor-Book.com.pdf)
+
+
+
+https://github.com/user-attachments/assets/4684a619-a2d2-44a7-b121-7b29db6488f0
