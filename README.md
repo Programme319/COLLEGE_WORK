@@ -4,7 +4,8 @@
 
 <br><br>
 
-<iframe src="https://www.youtube.com/embed/N7qWNQxFq90?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin"></iframe>
+https://www.youtube.com/embed/N7qWNQxFq90?rel=0
+
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7qWNQxFq90?si=d-fPP2JpKNcCKBdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
