@@ -17,3 +17,18 @@ https://youtu.be/t3sqg6JYTBw
 
 
 https://github.com/user-attachments/assets/4684a619-a2d2-44a7-b121-7b29db6488f0
+
+
+
+
+
+
+
+
+
+[64bc31_a7a757fcc229468481b7fc12e6e26865.pdf](https://github.com/user-attachments/files/32998181/64bc31_a7a757fcc229468481b7fc12e6e26865.pdf)
+[64bc31_3a8f13ea47714ce3b2787cc342074efd.pdf](https://github.com/user-attachments/files/32998179/64bc31_3a8f13ea47714ce3b2787cc342074efd.pdf)
+[l3.pdf](https://github.com/user-attachments/files/32998175/l3.pdf)
+[l2.pdf](https://github.com/user-attachments/files/32998168/l2.pdf)
+[l1.pdf](https://github.com/user-attachments/files/32998159/l1.pdf)
+
