@@ -33,3 +33,9 @@ https://github.com/user-attachments/assets/4684a619-a2d2-44a7-b121-7b29db6488f0
 [l2.pdf](https://github.com/user-attachments/files/32998168/l2.pdf)
 [l1.pdf](https://github.com/user-attachments/files/32998159/l1.pdf)
 
+
+
+
+
+
+https://github.com/user-attachments/assets/ac280435-6fc3-4639-af3f-c1c9ce2e23d0
