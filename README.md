@@ -22,6 +22,7 @@ https://github.com/user-attachments/assets/4684a619-a2d2-44a7-b121-7b29db6488f0
 
 
 
+[Lecture_01_Introduction_to_Microprocessor___Updated.pdf](https://github.com/user-attachments/files/33093059/Lecture_01_Introduction_to_Microprocessor___Updated.pdf)
 
 
 
