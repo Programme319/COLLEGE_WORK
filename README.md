@@ -39,3 +39,28 @@ https://github.com/user-attachments/assets/4684a619-a2d2-44a7-b121-7b29db6488f0
 
 
 https://github.com/user-attachments/assets/ac280435-6fc3-4639-af3f-c1c9ce2e23d0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Adv_C_001_Functions I.pdf](https://github.com/user-attachments/files/33278152/Adv_C_001_Functions.I.pdf)
+[CG-CH1.pdf](https://github.com/user-attachments/files/33278150/CG-CH1.pdf)
+[Dat_com_001_CH1- part I.pdf](https://github.com/user-attachments/files/33278146/Dat_com_001_CH1-.part.I.pdf)
+
