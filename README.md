@@ -34,6 +34,9 @@
 [الترجمة الفورية.pdf](https://github.com/user-attachments/files/33685306/default.pdf)
 <br>
 [الترجمة الفورية (1) Eng137.pdf](https://github.com/user-attachments/files/33685228/1.Eng137.pdf)
+<br>
+
+[default.pdf](https://github.com/user-attachments/files/33685552/default.pdf)
 
 
 
