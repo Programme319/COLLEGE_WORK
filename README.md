@@ -43,4 +43,18 @@
 #-----------------------
 <br><br><h1>MY BOOKS :</h1>
 [قواعد جارتين.pdf](https://github.com/user-attachments/files/33605703/default.pdf)
+<br>
+[620.pdf](https://github.com/user-attachments/files/33708482/620.pdf)
+
+<br>
+<br>
+[205.pdf](https://github.com/user-attachments/files/33708614/205.pdf)
+
+<br>
+
 <br>[Noor-Book.com  نقد العقل المحض.pdf](https://github.com/user-attachments/files/32708546/Noor-Book.com.pdf)<br>
+
+<br>
+[modernC.pdf](https://github.com/user-attachments/files/33708832/modernC.pdf)
+
+<br>
