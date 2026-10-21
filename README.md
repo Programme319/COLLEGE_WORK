@@ -9,6 +9,20 @@
   [l2.pdf](https://github.com/user-attachments/files/32998168/l2.pdf)<br>
   [l1.pdf](https://github.com/user-attachments/files/32998159/l1.pdf)<br>
 
+  
+  <h3>images for C :</h3>
+<img width="1280" height="963" alt="62544a6f-4fcf-462e-8199-9c3483fcc45d" src="https://github.com/user-attachments/assets/abb02f34-da59-4e5d-b0a4-c4c350569061" />
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/c7314417-6674-404d-bc3f-493ab8862986" />
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/1074fe0c-2c0e-4c58-a5f9-83018bfd286c" />
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/9cdae5fa-5259-4a55-9711-be17ccc13d85" />
+
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/5d3da6de-a622-4b2a-a8eb-62acb6c26e1b" />
+
+
+
   #------------
   <h3><un>adv-c</un></h3>
   [Adv_C_001_Functions I.pdf](https://github.com/user-attachments/files/33278152/Adv_C_001_Functions.I.pdf)<br>
@@ -17,10 +31,46 @@
   <h3><un>microprocessor</un></h3>
 
   [CG-CH1.pdf](https://github.com/user-attachments/files/33278150/CG-CH1.pdf)<br>
+
+  <h3>images for micro </h3>
+    
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/4db95633-44fb-46ff-974c-a1e7d531e75c" />
+
+  <img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/00a75669-646a-4d23-9c8d-c703de17fd7e" />
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/c3551ef7-4004-4e63-9b99-6251d6452749" />
+
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/978e68d3-5fe8-4d1b-95ba-f998209dd6a6" />
+
+
+
+<img width="963" height="1280" alt="image" src="https://github.com/user-attachments/assets/377a4c56-cb05-4bae-8ff6-89a81ce5ba26" />
+
 #-------------------------
   <h3><un>data-comm</un></h3>
   [Dat_com_001_CH1- part I.pdf](https://github.com/user-attachments/files/33278146/Dat_com_001_CH1-.part.I.pdf)<br>
-  
+
+
+
+  <h3><un>JAVA</un></h3>
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/6b638d5d-07e4-477b-aba3-ee353eb86237" />
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/c2543434-478f-4699-9cde-9cdf1b9c7755" />
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/1ea5ad36-c296-4d8a-b0bb-b35b9f4e0458" />
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/b7b2d4f3-2d17-49c4-902e-d935969597ce" />
+
+
+<img width="1280" height="963" alt="image" src="https://github.com/user-attachments/assets/02238cf8-05f0-47f6-b4fb-b71238a65763" />
+
+
+
+
+
+
 </div>
 
 
@@ -59,3 +109,7 @@
 [modernC.pdf](https://github.com/user-attachments/files/33753856/modernC.pdf)<br>
 
 <br>
+
+
+#videos for me:
+
