@@ -75,9 +75,15 @@
 
 
 #------------------------------
+#sounds :
+- [K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri).mp3](https://github.com/user-attachments/files/33314582/K-391.Alan.Walker.-.Ignite.feat.Julie.Bergan.Seungri.mp3)
 
-[K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri).mp3](https://github.com/user-attachments/files/33314582/K-391.Alan.Walker.-.Ignite.feat.Julie.Bergan.Seungri.mp3)
+- [TAG - 3ALA 3EINY (OFFICIAL AUDIO) prod by @Hatem_Bas｜ تاج - .mp3](https://github.com/user-attachments/files/33758521/TAG.-.3ALA.3EINY.OFFICIAL.AUDIO.prod.by.%40Hatem_Bas.-.mp3)
 
+- [Hal Di Kat Hayatak - هل دي كات حياتك.mp3](https://github.com/user-attachments/files/33758584/Hal.Di.Kat.Hayatak.-.mp3)
+
+
+- [MUSliM - Meen Kan Sabab ｜ Music Video - 2022 ｜ مسلم - مين كا.mp3](https://github.com/user-attachments/files/33758649/MUSliM.-.Meen.Kan.Sabab.Music.Video.-.2022.-.mp3)
 
 
 <h1 style="color:red;">ALaa books</h1>
@@ -112,4 +118,9 @@
 
 
 #videos for me:
-
+<br>
+https://drive.google.com/file/d/1NXEAb905ZXZDREuGawiQvjtqCaAeGBZ_/view?usp=drive_link 
+<br>
+https://drive.google.com/uc?export=download&id=1NXEAb905ZXZDREuGawiQvjtqCaAeGBZ_
+<br>
+[Download the video](https://drive.google.com/uc?export=download&id=1NXEAb905ZXZDREuGawiQvjtqCaAeGBZ_)
