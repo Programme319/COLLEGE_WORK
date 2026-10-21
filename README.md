@@ -55,6 +55,7 @@
 <br>[Noor-Book.com  نقد العقل المحض.pdf](https://github.com/user-attachments/files/32708546/Noor-Book.com.pdf)<br>
 
 <br>
-[modernC.pdf](https://github.com/user-attachments/files/33708832/modernC.pdf)
+[modernC.pdf](https://github.com/user-attachments/files/33753793/modernC.pdf)<br>
+[modernC.pdf](https://github.com/user-attachments/files/33753856/modernC.pdf)
 
 <br>
