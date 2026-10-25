@@ -109,7 +109,9 @@
 
 <br>
 <br>
-[205.pdf](https://github.com/user-attachments/files/33921399/205.pdf)
+
+
+[up][قواعد جارتين_3.pdf](https://github.com/user-attachments/files/33921521/_3.pdf)
 
 <br>
 
