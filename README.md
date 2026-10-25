@@ -1,4 +1,3 @@
-<div>
   
 ##  <h1 style="color: red;">COLLEGE BOOKS :</h1>
   <h3><un>microprocessor</un></h3>
@@ -74,28 +73,6 @@
 </div>
 
 
-#------------------------------
-## sounds :
-- [K-391 & Alan Walker - Ignite (feat. Julie Bergan & Seungri).mp3](https://github.com/user-attachments/files/33314582/K-391.Alan.Walker.-.Ignite.feat.Julie.Bergan.Seungri.mp3)
-
-- [TAG - 3ALA 3EINY (OFFICIAL AUDIO) prod by @Hatem_Bas｜ تاج - .mp3](https://github.com/user-attachments/files/33758521/TAG.-.3ALA.3EINY.OFFICIAL.AUDIO.prod.by.%40Hatem_Bas.-.mp3)
-
-- [Hal Di Kat Hayatak - هل دي كات حياتك.mp3](https://github.com/user-attachments/files/33758584/Hal.Di.Kat.Hayatak.-.mp3)
-
-
-- [MUSliM - Meen Kan Sabab ｜ Music Video - 2022 ｜ مسلم - مين كا.mp3](https://github.com/user-attachments/files/33758649/MUSliM.-.Meen.Kan.Sabab.Music.Video.-.2022.-.mp3)
-
-
-- [MUSliM - Abl Mawsalek ｜ Music Video - 2021 ｜ مسلم - قبل ما ا.mp3](https://github.com/user-attachments/files/33759757/MUSliM.-.Abl.Mawsalek.Music.Video.-.2021.-.mp3)
-
-- [Wegz & L5VAV - Khod W Hat (Audio) ｜ ويجز و الفايف - خد وهات .mp3](https://github.com/user-attachments/files/33759926/Wegz.L5VAV.-.Khod.W.Hat.Audio.-.mp3)
-
-
-
-
-
-
-
 ## <h1 style="color:red;">ALaa books</h1>
 [الترجمة الفورية.pdf](https://github.com/user-attachments/files/33685306/default.pdf)
 <br>
@@ -103,6 +80,24 @@
 <br>
 
 [default.pdf](https://github.com/user-attachments/files/33685552/default.pdf)
+
+##  ---  EYAD BOOKS  ---
+
+<br>
+
+[up][تمريض نسا نظري 7 Bleeding in Early Pregnancy.pdf](https://github.com/user-attachments/files/33921353/7.Bleeding.in.Early.Pregnancy.pdf)<br>
+[Upl[تمريض نسا نظري 8 Bleeding in late Pregnancy.pdf](https://github.com/user-attachments/files/33921232/8.Bleeding.in.late.Pregnancy.pdf)<br>
+[up][تمريض نسا نظري 9 Gestational Diabetes Mellitus (GDM).pdf](https://github.com/user-attachments/files/33921250/9.Gestational.Diabetes.Mellitus.GDM.pdf)<br>
+[cardiac disease تمريض نسا نظري 10.pdf](https://github.com/user-attachments/files/33921249/cardiac.disease.10.pdf)<br>
+[hypertetion & Eclampsia تمريض نسا نظري 11.pdf](https://github.com/user-attachments/files/33921248/hypertetion.Eclampsia.11.pdf)<br>
+[Nursing_Informatics_Lecture_Notes.pdf](https://github.com/user-attachments/files/33921247/Nursing_Informatics_Lecture_Notes.pdf)<br>
+[Nursing_Informatics_Complete.pdf](https://github.com/user-attachments/files/33921244/Nursing_Informatics_Complete.pdf)<br>
+[Ethics(4).pdf](https://github.com/user-attachments/files/33921233/Ethics.4.pdf)<br>
+
+<br>
+
+
+
 
 
 
