@@ -96,7 +96,15 @@
 
 <br>
 
+## hanin's books
+<br>
+[up][الحياة ليست رجلا.pdf](https://github.com/user-attachments/files/33955487/default.pdf)
 
+<br>
+
+[(mktbtypdf.com)-في-قلبي-أنثى-عبرية.pdf](https://github.com/user-attachments/files/33955519/mktbtypdf.com.-.-.-.-.pdf)
+
+<br>
 
 
 
